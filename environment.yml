@@ -1,0 +1,13 @@
+name: d2l
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - torch==2.0.0
+      - torchvision==0.15.1
+      - d2l==1.0.3
+      - jupyter
+      - matplotlib
+      - pandas
