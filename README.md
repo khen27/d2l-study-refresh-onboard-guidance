@@ -23,8 +23,8 @@ Here are some quick links to my notes and resouces I've created (currently WIP �
 
 | # | Section | Resource |
 |---|---------|----------|
-| 1 | Introduction | [Notes (Notebook)](notebooks/00_intro_notes.ipynb) |
-| 2 | Preliminaries | Coming Soon 🤘🏽 |
+| 1 | Introduction | [here](notebooks/00_introduction.ipynb) |
+| 2 | Preliminaries | [here](notebooks/02_preliminaries.ipynb)  |
 
 ## Quickstart (reproduce locally) 🚀
 ```bash
