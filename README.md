@@ -21,10 +21,11 @@ I’m following the open textbook **[Dive into Deep Learning (D2L)](https://d2l.
 <br>
 Here are some quick links to my notes and resouces I've created (currently WIP 😁)
 
-| # | Section | Resource |
-|---|---------|----------|
-| 1 | Introduction | [here](notebooks/00_introduction.ipynb) |
-| 2 | Preliminaries | [here](notebooks/02_preliminaries.ipynb)  |
+| # | Section | Resource | Status   |
+|---|---------|----------|----------|
+| 1 | Introduction | [here](notebooks/00_introduction.ipynb) | Complete |
+| 2 | Preliminaries | [WIP](notebooks/02_preliminaries.ipynb)  | In Progress |
+| 3 | Linear Neural Networks for Regression | 🤘🏽 Coming Soon! | Not Started |
 
 ## Quickstart (reproduce locally) 🚀
 ```bash
